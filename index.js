@@ -1,12 +1,14 @@
 import station from './src/station'
 import Convert from './src/until'
 import {Timer, SingleTimer, CountDown} from './src/timer'
+import {mixin as _mixin} from "./src/mixin";
 
 const StationManager = station;
 const TimerModel = {
     CountDown: CountDown
 }
 
+export const mixin = _mixin;
 export {
     StationManager,
     Convert,
