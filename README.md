@@ -10,3 +10,5 @@
     1、npm地址指向 registry=http://registry.npmjs.org/   否则会报错
     2、npm登陆：npm login
     3、npm登出：npm logout
+    
+    npm name = aser231
