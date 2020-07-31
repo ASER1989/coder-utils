@@ -17,5 +17,4 @@ export {
     Timer,       //计时管理，依赖计时模型
     SingleTimer, //单例计时管理
     TimerModel,  //计时模型
-    exportExcel
 }
