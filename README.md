@@ -3,7 +3,7 @@
 # 打包命令：
     rollup -c
 # 发布命令：
-   1、升级版本：npm version patch
+   1、升级版本：npm version patch (需要先提交本地代码)
    2、发布：npm publish
 
 # 备注：
