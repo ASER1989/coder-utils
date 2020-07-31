@@ -11,4 +11,4 @@
     2¡¢npmµÇÂ½£ºnpm login
     3¡¢npmµÇ³ö£ºnpm logout
     
-    npm name = aser231
+   
